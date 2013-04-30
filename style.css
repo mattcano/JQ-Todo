@@ -5,3 +5,8 @@ h1 {
 .delete_btn {
   margin-left: 15px;
 }
+
+ul li {
+  list-style: none;
+  margin-left: 0;
+}
