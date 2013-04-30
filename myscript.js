@@ -13,6 +13,7 @@ $(document).ready(function(){
     newTD.on("click", function(){
       var myTD = $(this);
       myTD.css("color", "red");
+      myTD.appendTo($("#completed"));
     });
   
   });
