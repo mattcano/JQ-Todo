@@ -1,3 +1,7 @@
 h1 {
   color: pink;
 }
+
+.delete_btn {
+  margin-left: 15px;
+}
